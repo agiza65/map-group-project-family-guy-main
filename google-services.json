@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285406731152",
+    "project_id": "careplus-c1a15",
+    "storage_bucket": "careplus-c1a15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285406731152:android:182b0dad623a67972c3115",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKXKWZLsJjwO6q44n0WfFedROWUXTOrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
